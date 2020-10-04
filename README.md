@@ -74,7 +74,7 @@ Una vez tenemos todos los cambios actualizados en develop podemos proceder a rea
 
 Para finalizar la release ejecutamos el comando git flow release finish [nombre_release] , este comando fusiona (merge) las ramas develop y master para así poder tener todas las features. Ahora con un simple git push desde master tenemos los cambios en remoto
 
-### Usuario 3
+### Usuario 1
 
 ![Captura de código](/images/img18.png)
 
